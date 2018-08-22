@@ -1,2 +1,2 @@
 # FireCluster
-Documentation and software for cluster of FriendlyARM NanoPi Fire3 SBCs
+Refer to Wiki for all documentation: https://github.com/stewpeake/FireCluster/wiki
